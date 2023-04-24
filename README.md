@@ -8,5 +8,5 @@ Meine gesammelten Werke (Dokumentation, Skripte, Quelltext und Links) - viel Spa
 
 | Dokument                                                                                   | Beschreibung                                     |
 |--------------------------------------------------------------------------------------------|--------------------------------------------------|
-| [Ubuntu_Proxy](./docs/Ubuntu_Proxy.md)                                                     | Proxy-Server unter Ubuntu konfigurieren          |
+| [Ubuntu_Proxy](./docs/Ubuntu_Proxy.md)                                                     | Ubuntu mit Proxy-Server für Konsolenprogramme    |
 | [Ubuntu_HyperV_ErweiterterSitzungsmodus](./docs/Ubuntu_HyperV_ErweiterterSitzungsmodus.md) | Ubuntu mit erweitertem Sitzungsmodus für Hyper-V |
