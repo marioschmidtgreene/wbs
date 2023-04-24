@@ -6,4 +6,5 @@ Meine gesammelten Werke (Dokumentation, Skripte, Quelltext und Links) - viel Spa
 
 ### Linux
 
+[Proxy](./docs/Proxy.md)
 [Ubuntu_HyperV_ErweiterterSitzungsmodus](./docs/Ubuntu_HyperV_ErweiterterSitzungsmodus.md)
