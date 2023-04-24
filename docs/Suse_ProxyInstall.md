@@ -9,4 +9,5 @@ proxy=https://10.140.247.10:3128
 ```
 Den Bootvorgang im Anschluss mit Taste F10 fortsetzen.
 
+Quellen:
 [opensuse](https://doc.opensuse.org/documentation/leap/startup/html/book-startup/cha-boot-parameters.html#sec-boot-parameters-advanced-proxy)
