@@ -1,4 +1,4 @@
-# Proxy-Server unter Ubuntu konfigurieren
+# Ubuntu mit Proxy-Server für Konsolenprogramme
 
 ## Paketmanager "apt"
 Den Paketmanager "apt" für die Verwendung eines Proxy-Server konfigurieren:
