@@ -1,4 +1,4 @@
-# Ubuntu mit Proxy-Server für Konsolenprogramme
+# Ubuntu mit Proxy-Server
 
 ## Paketmanager "apt"
 Den Paketmanager "apt" für die Verwendung eines Proxy-Server konfigurieren:
@@ -17,3 +17,7 @@ Für alle Benutzer Umgebungsvariablen anderer Shells für die Verwendung eines P
 echo 'http_proxy="http://10.140.247.10:3128"' | sudo tee -a /etc/environment
 echo 'ftp_proxy="http://10.140.247.10:3128"' | sudo tee -a /etc/environment
 ```
+## GUI-Programme konfigurieren
+Unter "Aktivitäten" -> "Einstellungen" öffnen und den Reiter "Netzwerk" auswählen. Unter "Proxy" dann die "manuelle" Konfiguration wählen und einen Proxy-Server und Proxy-Port für HTTP, HTTPS und FTP konfigurieren:
+
+![Proxy-Einstellungen für GUI-Programme konfigurieren](./img/Ubuntu_Proxy_GUI.png)
