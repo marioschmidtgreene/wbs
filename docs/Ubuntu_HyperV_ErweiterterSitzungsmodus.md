@@ -23,7 +23,7 @@ sudo reboot
 
 ## Virtuelle Maschine auf dem Hyper-V-Host konfigurieren
 
-Nun kann die VM für die Verwendung des erweiterten Sitzungsmodus konfiguriert werden:
+Auf dem Hyper-V-Host eine Powershell mit erhöhten Rechten starten und die VM für die Unterstützung des erweiterten Sitzungsmodus konfigurieren:
 ```
 Set-VM -VMName <Name-der-VM> -EnhancedSessionTransportType HvSocket
 ```
