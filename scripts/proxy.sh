@@ -2,7 +2,7 @@
 # 
 # proxy.sh - Gibt Umgebungsvariablen für den WBS-Proxyserver aus
 #
-# Um die Änderungen auf die aktuelle Umgebung des Benutzers anzuwenden, muss dieses Skript mit "." gesourced werden:
+# Um die Änderungen auf die aktuelle Umgebung des Benutzers anzuwenden muss dieses Skript mit "." gesourced werden:
 # . proxy.sh 
 
 IP=`hostname -I`
