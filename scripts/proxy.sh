@@ -11,6 +11,6 @@ IP=`hostname -I`
 STANDORT=`echo $IP | cut -d '.' -f 3`
 for prot in {"http","https","ftp"}
 do
-	echo ${prot}_proxy=http://10.147.${STANDORT}.10:3128
-	export ${prot}_proxy=http://10.147.${STANDORT}.10:3128
+	echo ${prot}_proxy=http://10.140.${STANDORT}.10:3128
+	export ${prot}_proxy=http://10.140.${STANDORT}.10:3128
 done
